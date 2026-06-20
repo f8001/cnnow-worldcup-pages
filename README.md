@@ -1,2 +1,14 @@
 # cnnow-worldcup-pages
-HTML page archive and documentation
+
+公开页面文件归档
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 检查说明
+
+如需核对发布结果，可同时查看 GitHub 文件链接和 Pages 链接。
